@@ -1,5 +1,5 @@
 ### Weather_App
-It's my first android project in kotlin. It's a weather telling App.
+It's my android project in kotlin. It's a weather telling App.
 <br>
 <p>This project is on Creating an Android Weather App using Kotlin.
 To get the weather information I used <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a> API. 
